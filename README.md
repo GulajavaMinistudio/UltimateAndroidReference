@@ -16,6 +16,7 @@ Happy learning. :+1:
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aritraroy/ultimate-android-reference/blob/master/LICENSE)
 
+
 ## Contribution Guide
 
 This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
@@ -195,6 +196,7 @@ and Android apps
 * [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) - Library that makes it possible to read, edit and write CSV files
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
+* [BottomBar](https://github.com/roughike/BottomBar) - A custom view component that mimics the new Material Design Bottom Navigation pattern
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
 * [Cafebar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
@@ -202,6 +204,7 @@ and Android apps
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
 * [FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android) - UI Bindings for Firebase
+* [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
@@ -241,6 +244,7 @@ and Android apps
 ### Utilities (Advanced)
 
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
+* [Lightweight Stream API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
 * [RetroLambda](https://github.com/evant/gradle-retrolambda) - A Gradle plugin for getting Java lambda support in Java 6, 7 and android
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) – This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main thread or any given Looper.
 * [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets
@@ -266,13 +270,13 @@ Stitch your photos together vertically or horizontally easily!
 
 * [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
 * [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The Android memo app you will deeply love
+* [FastHub](https://github.com/k0shk0sh/FastHub) - GitHub client for Android
 * [Google I/O App](https://github.com/google/iosched) - The Google I/O 2016 Android App
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)
 * [LeafPic](https://github.com/HoraApps/LeafPic) - LeafPic is an ad-free, open-source and material-designed Android gallery alternative
 * [MLManager](https://github.com/javiersantos/MLManager) - A modern, easy and customizable app manager for Android with Material Design
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture. Popcorn?
-* [Narrate](https://github.com/timothymiko/narrate-android) -
-Narrate is a beautiful and functional open source journal for Android
+* [Narrate](https://github.com/timothymiko/narrate-android) -Narrate is a beautiful and functional open source journal for Android
 * [Plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design
 * [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter/) - 🤖 A scouting app for FIRST Robotics Competition teams
 * [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
