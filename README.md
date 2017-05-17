@@ -255,7 +255,7 @@ and Android apps
 
 ## Open-Source Apps
 
-There are lots of open-source apps available in the Android community for developers to learn from, but it becomes very difficult to find the ones which are actually worth your time and can help you learn a lot of things. This list (loosely categorized on the basis of your Androdi skills) can help you find the resource you always wanted.
+There are lots of open-source apps available in the Android community for developers to learn from, but it becomes very difficult to find the ones which are actually worth your time and can help you learn a lot of things. This list (loosely categorized on the basis of your Android skills) can help you find the resource you always wanted.
 
 ### Beginner
 
@@ -519,6 +519,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
 * [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
+* [Effective Android UI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer
 * [Espresso Samples](https://github.com/chiuki/espresso-samples) - A collection of samples demonstrating different Espresso techniques
 * [Firebase Quickstart Android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 * [Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase
@@ -529,6 +530,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [RxJava 2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
 * [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries
+* [VB Android App Quality](https://github.com/vincentbrison/vb-android-app-quality) - Sample android project using Gradle, with basic quality tools set up
 
 
 ## Video Tutorials
