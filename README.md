@@ -189,6 +189,7 @@ and Android apps
 * [Mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 * [Robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
 * [Robotium](https://github.com/RobotiumTech/robotium) - Android UI Testing
+* [Selendroid](https://github.com/selendroid/selendroid) - Selendroid is a test automation framework which drives of the UI of Android native and hybrid applications (apps) and the mobile web with Selendroid
 * [Truth](https://github.com/google/truth) - Assertion/Proposition framework for Java unit tests
 
 ### UI Components
@@ -218,6 +219,7 @@ and Android apps
 
 ### Utilities
 
+* [Aesthetic](https://github.com/afollestad/aesthetic) - A fast and easy to use plug-and-play dynamic theme engine. Powered by Rx, for Android apps
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
