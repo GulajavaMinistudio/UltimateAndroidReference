@@ -182,12 +182,14 @@ and Android apps
 
 * [AssertJ](https://github.com/joel-costigliola/assertj-core) - AssertJ is a library providing easy to use rich typed assertions
 * [AssertJ Android](https://github.com/square/assertj-android) - A set of AssertJ helpers geared toward testing Android
-* [Calabash](https://github.com/calabash/calabash-android) - Automated Functional testing for Android based on cucumber
+* [Cucumber](https://github.com/autonomousapps/Cappuccino) - A sweeter Espresso. Never write your own IdlingResource again. Never manually turn off system animations again
+* [Composer](https://github.com/gojuno/composer) - Reactive Android Instrumentation Test Runner
 * [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html) - Write easy, simple and human-readable UI tests on Android
 * [Hamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
 * [JaCoCo](https://github.com/jacoco/jacoco) - JaCoCo - Java Code Coverage Library
 * [JUnit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java
 * [Mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
+* [OkReplay](https://github.com/airbnb/okreplay) - 📼 Record and replay OkHttp network interaction in your tests
 * [Robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
 * [Robotium](https://github.com/RobotiumTech/robotium) - Android UI Testing
 * [Selendroid](https://github.com/selendroid/selendroid) - Selendroid is a test automation framework which drives of the UI of Android native and hybrid applications (apps) and the mobile web with Selendroid
@@ -259,6 +261,8 @@ and Android apps
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) – This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main thread or any given Looper.
 * [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets
 * [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
+* [RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) - Library to convert between RxJava 1.x and 2.x reactive types
+* [Traceur](https://github.com/T-Spoon/Traceur) - Easier RxJava2 debugging with better stacktraces
 
 
 ## Open-Source Apps
@@ -288,6 +292,7 @@ Stitch your photos together vertically or horizontally easily!
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture. Popcorn?
 * [Narrate](https://github.com/timothymiko/narrate-android) -Narrate is a beautiful and functional open source journal for Android
 * [Plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design
+* [Protein](https://github.com/gejiaheng/Protein) - 🏀 An Android App for Dribbble
 * [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter/) - 🤖 A scouting app for FIRST Robotics Competition teams
 * [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) - Smart App Lock for Android
 * [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
@@ -490,6 +495,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
 * [Android Weekly](http://androidweekly.net) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
+* [Antonio Leiva's Blog](https://antonioleiva.com/category/blog/) - Amazing blog on Android development, with special focus on Kotlin from Antonio Leiva
 * [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
 * [Dan Lew Codes](http://blog.danlew.net) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code
