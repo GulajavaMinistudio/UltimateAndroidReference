@@ -210,7 +210,9 @@ and Android apps
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
 * [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
+* [FabulousFilter](https://github.com/Krupen/FabulousFilter) - Library to easily implement FAB to BottomSheetDialog animation
 * [FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android) - UI Bindings for Firebase
+* [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
 * [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
@@ -239,6 +241,7 @@ and Android apps
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 * [Easy Permissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
+* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) - Making Camera for Android more friendly
 * [Gson](https://github.com/google/gson) -  A Java serialization/deserialization library to convert Java Objects into JSON and back
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
@@ -331,6 +334,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
 * [APK DeGuard](http://apk-deguard.com) - DeGuard reverses the process of obfuscation performed by Android obfuscation tools. This enables numerous security analyses, including code inspection and predicting libraries
+* [APK Patch Size Estimator](https://github.com/googlesamples/apk-patch-size-estimator) - Estimates the size of Google Play patches and the new gzipped APK
 * [Battery Historian](https://github.com/google/battery-historian) - Battery Historian is a tool to analyze battery consumers using Android "bugreport" files
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
@@ -505,6 +509,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Material Up](https://material.uplabs.com) - Get fresh Material Design inspiration daily
 * [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
 * [Mindork's Blog](https://blog.mindorks.com) - A regularly updated blog talking about various aspects of Android development in detail
+* [Philosophical Hacker](https://www.philosophicalhacker.com) - Some really informative articles on Android development 
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com) - Learn perfecting your Android UI and UX development skills
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
@@ -527,6 +532,7 @@ If you want to keep yourself updated with all the latest Android development new
 
 If you want to get started with something quick-and-dirty, then sample projects are something which can help you a lot in understanding the concepts and technicalities in almost no time.
 
+* [AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground) - An Android app for experimenting with Adaptive Icons
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
 * [Android Boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
