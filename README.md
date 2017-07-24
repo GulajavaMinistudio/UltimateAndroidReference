@@ -260,6 +260,7 @@ and Android apps
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [Lightweight Stream API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
+* [Mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter / Model-View-Intent library for modern Android apps
 * [Optional](https://github.com/MrHadiSatrio/Optional) - Java 8 Optional-like APIs for everyone
 * [RetroLambda](https://github.com/evant/gradle-retrolambda) - A Gradle plugin for getting Java lambda support in Java 6, 7 and android
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) – This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main thread or any given Looper.
@@ -362,6 +363,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Material Palette](https://www.materialpalette.com) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com) - Your solution for a perfectly fit APK
 * [Mocky.IO](http://www.mocky.io) - Mock your HTTP responses to test your REST API
+* [OkBuck](https://github.com/uber/okbuck) - OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project
 * [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Server for Android Instrumentation tests
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
@@ -493,6 +495,7 @@ Can't get enough of Live Templates? [Here](https://github.com/keyboardsurfer/ide
 
 If you want to keep yourself updated with all the latest Android development news, articles and tutorials then these are some of the best sites in the Internet where the good Androidy-things happen all the time.
 
+* [AndroidPub](https://android.jlelse.eu) - The Pub(lication) for Android & Tech, focused on Development
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
 * [Andorid Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
 * [AndroidDevDigest](https://www.androiddevdigest.com) - A Handcrafted Weekly #AndroidDev Newsletter
