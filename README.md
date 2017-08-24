@@ -11,7 +11,7 @@ Happy learning. :+1:
 
 #### Spread Some :heart:
 
-[![GitHub stars](https://img.shields.io/github/stars/aritraroy/ultimate-android-reference.svg?style=social&label=Star)](https://github.com/aritraroy/ultimate-android-reference) [![GitHub forks](https://img.shields.io/github/forks/aritraroy/ultimate-android-reference.svg?style=social&label=Fork)](https://github.com/aritraroy/ultimate-android-reference/fork) [![GitHub watchers](https://img.shields.io/github/watchers/aritraroy/ultimate-android-reference.svg?style=social&label=Watch)](https://github.com/aritraroy/ultimate-android-reference)[![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/aritraroy) [![Twitter Follow](https://img.shields.io/twitter/follow/aritraroy93.svg?style=social)](https://twitter.com/aritraroy93)
+[![GitHub stars](https://img.shields.io/github/stars/aritraroy/ultimate-android-reference.svg?style=social&label=Star)](https://github.com/aritraroy/ultimate-android-reference) [![GitHub forks](https://img.shields.io/github/forks/aritraroy/ultimate-android-reference.svg?style=social&label=Fork)](https://github.com/aritraroy/ultimate-android-reference/fork) [![GitHub watchers](https://img.shields.io/github/watchers/aritraroy/ultimate-android-reference.svg?style=social&label=Watch)](https://github.com/aritraroy/ultimate-android-reference)[![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/aritraroy) [![Twitter Follow](https://img.shields.io/twitter/follow/aritraroy93.svg?style=social)](https://twitter.com/aritraroy)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aritraroy/ultimate-android-reference/blob/master/LICENSE)
@@ -58,6 +58,7 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 * [Android Studio Live Templates](#android-studio-live-templates)
 * [Sites](#sites)
 * [Books](#books)
+* [Podcasts](#podcasts)
 * [Sample Projects](#sample-projects)
 * [Video Tutorials](#video-tutorials)
 * [Twitter Profiles](#twitter-profiles)
@@ -79,6 +80,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
 * [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
+* [RichPath](https://github.com/tarek360/RichPath) - 💪 Rich Android Path. 🤡 Draw as you want. 🎉 Animate much as you can
 * [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
 * [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
 
@@ -201,6 +203,7 @@ and Android apps
 * [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) - Library that makes it possible to read, edit and write CSV files
 * [Alerter](https://github.com/Tapadoo/Alerter) - A customisable notification view
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
+* [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment) - Library project to display DialogFragment with a blur effect
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
 * [BottomBar](https://github.com/roughike/BottomBar) - A custom view component that mimics the new Material Design Bottom Navigation pattern
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
@@ -224,6 +227,7 @@ and Android apps
 * [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications by Supercharge 
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
+* [VectorMaster](https://github.com/harjot-oberai/VectorMaster) - Dynamic control over vector drawables
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
 
 ### Utilities
@@ -269,6 +273,7 @@ and Android apps
 * [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
 * [RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) - Library to convert between RxJava 1.x and 2.x reactive types
 * [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android apps using RxJava
+* [RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and a Consumer
 * [Traceur](https://github.com/T-Spoon/Traceur) - Easier RxJava2 debugging with better stacktraces
 
 
@@ -335,6 +340,7 @@ Stitch your photos together vertically or horizontally easily!
 * [ADB IDEA](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day Android development
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio) - A collection of tools to easily generate assets such as launcher icons for your Android app
 * [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
+* [Android Translator](https://github.com/BoondoggleLabs/Android-Translator) - A web-based tool to quickly and easily create translations for your Android app
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
 * [APK DeGuard](http://apk-deguard.com) - DeGuard reverses the process of obfuscation performed by Android obfuscation tools. This enables numerous security analyses, including code inspection and predicting libraries
 * [APK Patch Size Estimator](https://github.com/googlesamples/apk-patch-size-estimator) - Estimates the size of Google Play patches and the new gzipped APK
@@ -500,7 +506,6 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
 * [Andorid Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
 * [AndroidDevDigest](https://www.androiddevdigest.com) - A Handcrafted Weekly #AndroidDev Newsletter
-* [Android Developers Backstage](http://androidbackstage.blogspot.ch/) - Podcast made by Google, featuring Chet Haase and Tor Norbye
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
@@ -509,7 +514,6 @@ If you want to keep yourself updated with all the latest Android development new
 * [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
 * [Dan Lew Codes](http://blog.danlew.net) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code
-* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
 * [Grokking Android](https://www.grokkingandroid.com) - Getting Down to the Nitty Gritty of Android Development
 * [Material Up](https://material.uplabs.com) - Get fresh Material Design inspiration daily
 * [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
@@ -532,6 +536,16 @@ If you want to keep yourself updated with all the latest Android development new
 * [Java: The Complete Reference](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/9339212096) - by Herbert Schildt
 * [The Busy Coder's Guide to Advanced Android Development](https://commonsware.com/Android) - by Mark Murphy
 * [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) - by Michael Feathers
+
+# Podcasts
+
+Not too fond of reading books or blogs? You should definately try listening to some of these podcasts in your free time, while driving, cooking or doing the dishes.
+
+* [Android Developers Backstage](http://androidbackstage.blogspot.ch/) - Podcast made by Google, featuring Chet Haase and Tor Norbye
+* [Android Snacks](https://androidsnacks.wordpress.com) - The tl;dr of last weeks Android developer news
+* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
+* [The Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) - Podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests
+
 
 ## Sample Projects
 
@@ -639,7 +653,8 @@ Android & Backend Developer. Blogger. Designer. Fitness Enthusiast.
 
 <a href="https://play.google.com/store/apps/details?id=com.codexapps.andrognito&hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> <a href="https://blog.aritraroy.in/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
 <a href="https://stackoverflow.com/users/2858654/aritra-roy"><img src="https://github.com/aritraroy/social-icons/blob/master/stackoverflow-icon.png?raw=true" width="60"></a>
-<a href="https://twitter.com/aritraroy93"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/aritraroy"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="http://linkedin.com/in/aritra-roy"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 
 ## License
 
