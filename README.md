@@ -153,6 +153,7 @@ and Android apps
 * [Pollexor](http://square.github.io/pollexor/) - An Android library, that can download unencrypted and encrypted images, crop, resize, apply filters and convert to another format.
 
 ### Logging
+
 * [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
 * [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android
 * [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data
@@ -252,6 +253,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Gson](https://github.com/google/gson) -  A Java serialization/deserialization library to convert Java Objects into JSON and back
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
+* [JSoup](https://github.com/jhy/jsoup/) - Java HTML Parser, with best of DOM, CSS, and jquery
 * [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 * [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
@@ -275,6 +277,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
 * [RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) - Library to convert between RxJava 1.x and 2.x reactive types
 * [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android apps using RxJava
+* [RxLint](https://bitbucket.org/littlerobots/rxlint) - rxlint is a set of lint checks that check your RxJava code. There are currently three checks
 * [RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and a Consumer
 * [Traceur](https://github.com/T-Spoon/Traceur) - Easier RxJava2 debugging with better stacktraces
 
@@ -317,6 +320,7 @@ Stitch your photos together vertically or horizontally easily!
 
 * [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) - Amaze File Manager source code
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
+* [CatchUp](https://github.com/hzsweers/CatchUp) - An app for catching up on things
 * [CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
 * [Conversations](https://github.com/siacs/Conversations) - A federated Instant Messaging app for Android (XMPP/Jabber)
 * [Kickstarter](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere
@@ -415,6 +419,7 @@ Kotlin, the new statically-typed programming language from JetBrains aims to mak
 * [KotlinPoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
 * [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made easy using Kotlin
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
+* [Spek](https://github.com/spekframework/spek) - A specification framework for Kotlin
 
 
 ## Android Studio Shortcuts
