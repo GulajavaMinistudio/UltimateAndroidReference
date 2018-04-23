@@ -127,6 +127,7 @@ and Android apps
 * [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor) - A transparent ui-block detection library for Android (known as BlockCanary)
 * [Chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
 * [Debug Drawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
+* [Hyperion](https://github.com/willowtreeapps/Hyperion-Android) - App Debugging & Inspection Tool for Android
 * [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
 * [Stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more
 * [Takt](https://github.com/wasabeef/Takt) - Takt is Android library for measuring the FPS using Choreographer
@@ -273,6 +274,8 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 
 ### Utilities (Advanced)
 
+* [AutoDispose](https://github.com/uber/AutoDispose) - Automatic binding+disposal of RxJava 2 streams
+* [Android KTX](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [Lightweight Stream API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
@@ -384,10 +387,12 @@ Stitch your photos together vertically or horizontally easily!
 * [Material Palette](https://www.materialpalette.com) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com) - Your solution for a perfectly fit APK
 * [Mocky.IO](http://www.mocky.io) - Mock your HTTP responses to test your REST API
+* [Name That Color](https://github.com/galex/name-that-color-intellij-plugin) - This plugin lets you insert a name for a color you copy-paste or type in an android resource file
 * [OkBuck](https://github.com/uber/okbuck) - OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project
 * [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Server for Android Instrumentation tests
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
+* [Scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [Shape Shifter](https://shapeshifter.design) - Useful tool for creating simple path morphing AnimatedVectorDrawables
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) - SonarLint is an IntelliJ IDEA plugin that provides on-the-fly feedback to developers on new bugs and quality issues injected into Java
@@ -571,6 +576,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground) - An Android app for experimenting with Adaptive Icons
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
 * [Android Boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot
+* [Android Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture from Buffer
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
 * [Android Instant Apps](https://github.com/googlesamples/android-instant-apps) - Samples for Android Instant Apps
 * [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
