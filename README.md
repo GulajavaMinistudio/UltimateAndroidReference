@@ -166,7 +166,6 @@ and Android apps
 * [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data
 * [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class
 
-
 ### Networking
 
 * [Bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed
@@ -196,6 +195,7 @@ and Android apps
 * [AssertJ Android](https://github.com/square/assertj-android) - A set of AssertJ helpers geared toward testing Android
 * [Cucumber](https://github.com/autonomousapps/Cappuccino) - A sweeter Espresso. Never write your own IdlingResource again. Never manually turn off system animations again
 * [Composer](https://github.com/gojuno/composer) - Reactive Android Instrumentation Test Runner
+* [DaggerMock](https://github.com/fabioCollini/DaggerMock) - A JUnit rule to easily override Dagger 2 objects
 * [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html) - Write easy, simple and human-readable UI tests on Android
 * [Hamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
 * [JaCoCo](https://github.com/jacoco/jacoco) - JaCoCo - Java Code Coverage Library
@@ -224,6 +224,7 @@ and Android apps
 * [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
 * [FabulousFilter](https://github.com/Krupen/FabulousFilter) - Library to easily implement FAB to BottomSheetDialog animation
 * [FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android) - UI Bindings for Firebase
+* [Flashbar](https://github.com/aritraroy/Flashbar) - A highly customizable, powerful and easy-to-use alerting library for Android
 * [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
 * [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
@@ -231,6 +232,7 @@ and Android apps
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
 * [Material Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
 * [Matisse](https://github.com/zhihu/Matisse) - A well-designed local image and video selector for Android
+* [Paris](https://github.com/airbnb/paris) - Define and apply styles to Android views programmatically
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
 * [Remixer](https://github.com/material-foundation/material-remixer-android) -
 Remixer is a framework to iterate quickly on UI changes by allowing you to adjust UI variables without needing to rebuild (or even restart) your app. You can adjust Numbers, Colors, Booleans, and Strings.
@@ -592,6 +594,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * [Just Another Android App](https://github.com/athkalia/Just-Another-Android-App) - An Android base app with loads of cool libraries/configuration
 * [Material Animations](https://github.com/lgvalle/Material-Animations) - Android Transition animations explanation with examples
+* [N26AndroidSamples](https://github.com/n26/N26AndroidSamples) - A public repo to demo the Reactive Clean Architecture
 * [Quality Matters](https://github.com/artem-zinnatullin/qualitymatters) - Android Development Culture
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [RxJava 2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
