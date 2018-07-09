@@ -172,6 +172,7 @@ and Android apps
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
+* [OkDownload](https://github.com/lingochamp/okdownload) - A Reliable, Flexible, Fast and Powerful download engine
 * [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) - A file downloader library for Android with pause and resume support
 * [Retrofit](https://square.github.io/retrofit) - Retrofit turns your REST API into a Java interface
 * [Volley](https://github.com/google/volley) - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster
@@ -253,6 +254,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) - UI form validation library for Android
 * [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
 * [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences
+* [BillingX](https://github.com/pixiteapps/billingx) - Extension to the Billing Support library to support debug builds
 * [ByteBuddy](http://bytebuddy.net) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 * [Cropiwa](https://github.com/steelkiwi/cropiwa) - The library which is highly configurable for image cropping.
@@ -265,7 +267,8 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
 * [JSoup](https://github.com/jhy/jsoup/) - Java HTML Parser, with best of DOM, CSS, and jquery
 * [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
-* [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+* [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java
+* [Nanoscope](https://github.com/uber/nanoscope) - An extremely accurate Android method tracing tool
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
 * [ProtoBuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
@@ -311,6 +314,7 @@ Stitch your photos together vertically or horizontally easily!
 
 ### Intermediate
 
+* [ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Automatically track websites changes on Android in background
 * [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
 * [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The Android memo app you will deeply love
 * [FastHub](https://github.com/k0shk0sh/FastHub) - GitHub client for Android
@@ -345,6 +349,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Signal](https://github.com/WhisperSystems/Signal-Android) - A private messenger for Android
 * [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) - CleanMaster like open-source app
 * [Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) - 100% open source version of my popular Talon for Twitter app on Android
+* [Talon for Twitter (Material Design)](https://github.com/klinker24/talon-for-twitter-android) - The Material Design version of my popular Android Talon for Twitter app, 100% open-source 
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player
 
@@ -366,6 +371,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Battery Historian](https://github.com/google/battery-historian) - Battery Historian is a tool to analyze battery consumers using Android "bugreport" files
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
+* [Carbon](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code
 * [CheckStyle IDEA](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea) - This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA
 * [ClassyShark](https://github.com/google/android-classyshark) - Android executables browser
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting
@@ -397,6 +403,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [Shape Shifter](https://shapeshifter.design) - Useful tool for creating simple path morphing AnimatedVectorDrawables
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
+* [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) - SonarLint is an IntelliJ IDEA plugin that provides on-the-fly feedback to developers on new bugs and quality issues injected into Java
 * [SourceTree](https://www.sourcetreeapp.com) - Harness the power of Git and Hg in a beautifully simple application
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Provides actions for text manipulation such as toggle, capitalize, encode/decode, etc
@@ -583,6 +590,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Instant Apps](https://github.com/googlesamples/android-instant-apps) - Samples for Android Instant Apps
 * [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
 * [Android MVVM Architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava2, FastAndroidNetworking and PlaceholderView
+* [Android Sunflower](https://github.com/googlesamples/android-sunflower) - A gardening app illustrating Android development best practices with Android Jetpack
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
