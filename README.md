@@ -175,6 +175,7 @@ and Android apps
 * [OkDownload](https://github.com/lingochamp/okdownload) - A Reliable, Flexible, Fast and Powerful download engine
 * [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) - A file downloader library for Android with pause and resume support
 * [Retrofit](https://square.github.io/retrofit) - Retrofit turns your REST API into a Java interface
+* [Scarlet](https://github.com/Tinder/Scarlet) - A Retrofit inspired WebSocket client for Kotlin, Java, and Android 
 * [Volley](https://github.com/google/volley) - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster
 
 ### Persistence
@@ -539,7 +540,6 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
-* [AndroidPub](https://android.jlelse.eu/) - The Pub(lication) for Android & Tech, focused on Development
 * [Android Weekly](http://androidweekly.net) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
 * [Antonio Leiva's Blog](https://antonioleiva.com/category/blog/) - Amazing blog on Android development, with special focus on Kotlin from Antonio Leiva
 * [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training
