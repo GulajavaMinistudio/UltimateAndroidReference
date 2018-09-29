@@ -16,10 +16,12 @@ Happy learning. :+1:
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aritraroy/ultimate-android-reference/blob/master/LICENSE)
 
-## Supported with :heart: by [Instabug](https://instabug.com/?utm_source=androidref&utm_medium=spon&utm_content=header)
+## Recommended SDK for Bug and Crash Reporting - [Instabug](https://try.instabug.com/android/?utm_source=androidref&utm_medium=spon&utm_content=header)
 
-[![Instabug](https://user-images.githubusercontent.com/9888943/33424996-24edb968-d5c6-11e7-96bd-5d90832316a9.gif)](https://instabug.com/?utm_source=androidref&utm_medium=spon&utm_content=banner)
-Instabug SDK allows mobile developers to receive detailed bug reports from users and testers directly from inside the app. Instabug attaches screenshots, screen recordings, network requests, device environment details, and reproduce steps with each bug report. This  minimizes debugging time and helps developers in tracing weird bugs. The SDK integration takes less than one minute with only one line of code. [Learn more.](https://instabug.com/?utm_source=androidref&utm_medium=spon&utm_content=learn-more)
+[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/android/?utm_source=androidref&utm_medium=spon&utm_content=banner)
+
+> Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occurred. This will help you reproduce bugs and fix them 10x faster.<br>
+We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_Learn more._ ](https://try.instabug.com/android/?utm_source=androidref&utm_medium=spon&utm_content=learn-more)🚀
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/ultimateAndroidReference?pixel)](https://instabug.com)
 
 
@@ -88,6 +90,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
 * [RichPath](https://github.com/tarek360/RichPath) - 💪 Rich Android Path. 🤡 Draw as you want. 🎉 Animate much as you can
 * [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
+* [TestButler](https://github.com/linkedin/test-butler) -  Reliable Android Testing, at your service
 * [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
 
 
@@ -168,7 +171,6 @@ and Android apps
 
 ### Networking
 
-* [Bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
