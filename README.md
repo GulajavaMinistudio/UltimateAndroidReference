@@ -537,7 +537,7 @@ If you want to keep yourself updated with all the latest Android development new
 
 * [AndroidPub](https://android.jlelse.eu) - The Pub(lication) for Android & Tech, focused on Development
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
-* [Andorid Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
+* [Android Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
 * [AndroidDevDigest](https://www.androiddevdigest.com) - A Handcrafted Weekly #AndroidDev Newsletter
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
@@ -552,6 +552,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
 * [Mindork's Blog](https://blog.mindorks.com) - A regularly updated blog talking about various aspects of Android development in detail
 * [Philosophical Hacker](https://www.philosophicalhacker.com) - Some really informative articles on Android development
+* [ProAndroidDev](https://proandroiddev.com/) - Professional Android Development: the latest posts from Android Professionals and Google Developer Experts.
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com) - Learn perfecting your Android UI and UX development skills
 * [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more
