@@ -285,6 +285,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 
 * [AutoDispose](https://github.com/uber/AutoDispose) - Automatic binding+disposal of RxJava 2 streams
 * [Android KTX](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development
+* [Domic](https://github.com/lyft/domic) - Reactive Virtual DOM for Android
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [Lightweight Stream API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
@@ -598,6 +599,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
+* [Android UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices
 * [Clean Architecture Manifest](https://github.com/ImangazalievM/CleanArchitectureManifest) - Description of the main principles and rules for building an Android application using Clean Architecture approach
 * [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
 * [Effective Android UI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer
