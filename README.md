@@ -224,6 +224,7 @@ and Android apps
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
 * [Cafebar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
+* [Cyanea](https://github.com/jaredrummler/Cyanea) - A theme engine for Android
 * [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
@@ -385,6 +386,7 @@ Stitch your photos together vertically or horizontally easily!
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting
 * [Codota](https://www.codota.com/ide-plugin) - Supercharge your development workflow by getting great code examples directly in your IDE. The Codota plugin for IntelliJ lets you quickly find the best code examples for every API class or method
 * [Dagger IntelliJ Plugin](https://github.com/square/dagger-intellij-plugin) - An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used
+* [Detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin
 * [DevKnox](https://devknox.io) - Autocorrect Security Issues As You Write Code
 * [Dex Count Gradle Plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build
 * [Dex Method Counts](https://github.com/mihaip/dex-method-counts) - Command-line tool to count per-package methods in Android .dex files
@@ -399,6 +401,7 @@ Stitch your photos together vertically or horizontally easily!
 * [JSONBlob](https://jsonblob.com) - JSON Blob is a web-based tool to create, edit, view, format, and share JSON
 * [JSONSchema2POJO](http://www.jsonschema2pojo.org) - Easy and quick way to convert your JSON to Java objects
 * [KeyPromoter](https://plugins.jetbrains.com/plugin/4455-key-promoter) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)
+* [KtLint](https://github.com/shyiko/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 * [Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project
 * [Material Palette](https://www.materialpalette.com) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com) - Your solution for a perfectly fit APK
@@ -413,6 +416,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
 * [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) - SonarLint is an IntelliJ IDEA plugin that provides on-the-fly feedback to developers on new bugs and quality issues injected into Java
+* [Spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 * [SourceTree](https://www.sourcetreeapp.com) - Harness the power of Git and Hg in a beautifully simple application
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Provides actions for text manipulation such as toggle, capitalize, encode/decode, etc
 * [SVG2VectorDrawable Plugin](https://plugins.jetbrains.com/plugin/8103-svg2vectordrawable) - Tools for convert SVG file to Android VectorDrawable
