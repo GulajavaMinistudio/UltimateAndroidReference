@@ -99,7 +99,6 @@ These are some of the best and the most popular libraries and utilities to boost
 
 * [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability
 * [Evernote Android Job](https://github.com/evernote/android-job) - Android library to handle jobs in the background
-* [Firebase Job Dispatcher](https://github.com/firebase/firebase-jobdispatcher-android) - The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed
 
 
 ### Charts
@@ -279,6 +278,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
 * [ProtoBuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
+* [Register](https://github.com/NYTimes/Register) - Android Library and App for testing Play Store billing
 * [Reprint](https://github.com/ajalt/reprint) - A unified fingerprint library for Android
 * [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the values of Shared Preferences
 * [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap
@@ -380,6 +380,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Battery Historian](https://github.com/google/battery-historian) - Battery Historian is a tool to analyze battery consumers using Android "bugreport" files
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
+* [Build Time Tracker](https://github.com/passy/build-time-tracker-plugin) - Gradle plugin to continuously track and report your build times
 * [Carbon](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code
 * [CheckStyle IDEA](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea) - This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA
 * [ClassyShark](https://github.com/google/android-classyshark) - Android executables browser
@@ -397,6 +398,7 @@ Stitch your photos together vertically or horizontally easily!
 * [FindBugs](http://findbugs.sourceforge.net) - Powerful static code analysis tool for Java and Android
 * [FlatIcon](http://www.flaticon.com) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats
 * [Gradle Please](http://gradleplease.appspot.com) - Quick and easy way to build Gradle based libraries in Android
+* [Gradle Profiler](https://github.com/gradle/gradle-profiler) - A tool for gathering profiling and benchmarking information for Gradle builds
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 * [JSONBlob](https://jsonblob.com) - JSON Blob is a web-based tool to create, edit, view, format, and share JSON
 * [JSONSchema2POJO](http://www.jsonschema2pojo.org) - Easy and quick way to convert your JSON to Java objects
@@ -598,6 +600,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
 * [Android Boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot
 * [Android Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture from Buffer
+* [Android Clean Architecture Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) - This is a movies sample app in Kotlin, which is part of a series of blog posts I have written about architecting android application using different approaches
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
 * [Android Instant Apps](https://github.com/googlesamples/android-instant-apps) - Samples for Android Instant Apps
 * [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
