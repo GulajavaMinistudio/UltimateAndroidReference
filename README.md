@@ -206,9 +206,12 @@ and Android apps
 * [JaCoCo](https://github.com/jacoco/jacoco) - JaCoCo - Java Code Coverage Library
 * [JUnit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java
 * [Mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
+* [MockK](https://github.com/mockk/mockk) - Mocking library for Kotlin
 * [OkReplay](https://github.com/airbnb/okreplay) - 📼 Record and replay OkHttp network interaction in your tests
 * [Robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
 * [Robotium](https://github.com/RobotiumTech/robotium) - Android UI Testing
+* [RxIdler](https://github.com/square/RxIdler) - An IdlingResource for Espresso which wraps an RxJava Scheduler
+* [RxPresso](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava
 * [Selendroid](https://github.com/selendroid/selendroid) - Selendroid is a test automation framework which drives of the UI of Android native and hybrid applications (apps) and the mobile web with Selendroid
 * [Truth](https://github.com/google/truth) - Assertion/Proposition framework for Java unit tests
 
@@ -282,6 +285,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Reprint](https://github.com/ajalt/reprint) - A unified fingerprint library for Android
 * [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the values of Shared Preferences
 * [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap
+* [Store](https://github.com/NYTimes/Store) - Android Library for Async Data Loading and Caching
 * [uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android
 
 ### Utilities (Advanced)
@@ -293,6 +297,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [Lightweight Stream API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
 * [Mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter / Model-View-Intent library for modern Android apps
+* [MvRx](https://github.com/airbnb/MvRx) - MvRx: Android on Autopilot
 * [Optional](https://github.com/MrHadiSatrio/Optional) - Java 8 Optional-like APIs for everyone
 * [RetroLambda](https://github.com/evant/gradle-retrolambda) - A Gradle plugin for getting Java lambda support in Java 6, 7 and android
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) – This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main thread or any given Looper.
@@ -361,6 +366,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Talon for Twitter (Material Design)](https://github.com/klinker24/talon-for-twitter-android) - The Material Design version of my popular Android Talon for Twitter app, 100% open-source 
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player
+* [TimberX](https://github.com/naman14/TimberX) - Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding)
 
 
 ## Tools
@@ -404,6 +410,7 @@ Stitch your photos together vertically or horizontally easily!
 * [JSONSchema2POJO](http://www.jsonschema2pojo.org) - Easy and quick way to convert your JSON to Java objects
 * [KeyPromoter](https://plugins.jetbrains.com/plugin/4455-key-promoter) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)
 * [KtLint](https://github.com/shyiko/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
+* [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 * [Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project
 * [Material Palette](https://www.materialpalette.com) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com) - Your solution for a perfectly fit APK
@@ -610,6 +617,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
 * [Android UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices
+* [Bubble](https://github.com/ImangazalievM/Bubbble ) - ample app showcases the MVP pattern and Robert Martin's Clean Architecture approach
 * [Clean Architecture Manifest](https://github.com/ImangazalievM/CleanArchitectureManifest) - Description of the main principles and rules for building an Android application using Clean Architecture approach
 * [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
 * [Effective Android UI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer
